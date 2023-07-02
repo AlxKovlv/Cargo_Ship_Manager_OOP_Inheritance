@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a Cargo Ship Management System, developed as an academic assignment in 2022. The project utilizes Object-Oriented Programming (OOP) concepts with a three-layer inheritance structure, implemented in .NET C#.
 
-[CargoShipSlides.pdf](https://github.com/AlxKovlv/Cargo_Ship_Manager_OOP_Inheritance/files/11930021/CargoShipSlides.pdf)
+![1](https://github.com/AlxKovlv/Cargo_Ship_Manager_OOP_Inheritance/assets/130834771/4c76c63b-89f4-48f9-b30d-e30cc019393e)
 
 ## Project Description
 
@@ -14,6 +14,8 @@ The system features a management system for cargo ships, where different types o
 - Inheritance structure for shipment work orders
 - Implementation of OOP principles (encapsulation, inheritance, polymorphism)
 - User-friendly and intuitive interface
+  
+![2](https://github.com/AlxKovlv/Cargo_Ship_Manager_OOP_Inheritance/assets/130834771/20e5f927-6539-48db-8c84-f88cdb603a37)
 
 ## Usage
 
