@@ -1,0 +1,4 @@
+Work order: 10027
+Ship cargo: 15 containers
+Crew on board: 8
+Fuel cost: 0$ (Military contract)
