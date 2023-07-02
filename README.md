@@ -16,9 +16,3 @@ The system features a management system for cargo ships, where different types o
 - User-friendly and intuitive interface
   
 ![2](https://github.com/AlxKovlv/Cargo_Ship_Manager_OOP_Inheritance/assets/130834771/20e5f927-6539-48db-8c84-f88cdb603a37)
-
-## Usage
-
-1. Clone the repository: `git clone https://github.com/your-username/Cargo_Ship_Manager_OOP_Inheritance.git`
-2. Open the project in your preferred IDE.
-3. Build and run the application.
