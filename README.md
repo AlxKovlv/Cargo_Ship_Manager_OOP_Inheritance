@@ -14,5 +14,8 @@ The system features a management system for cargo ships, where different types o
 - Inheritance structure for shipment work orders
 - Implementation of OOP principles (encapsulation, inheritance, polymorphism)
 - User-friendly and intuitive interface
+
+![image](https://github.com/AlxKovlv/Cargo_Ship_Manager_OOP_Inheritance/assets/130834771/5c7b59f3-94f0-4b13-bf0d-fcfcc62023c5)
+
   
 ![2](https://github.com/AlxKovlv/Cargo_Ship_Manager_OOP_Inheritance/assets/130834771/20e5f927-6539-48db-8c84-f88cdb603a37)
